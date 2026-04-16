@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: engine-svc-4638
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/engine-svc-4638
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
